@@ -1,4 +1,4 @@
-# 🚀 Odoo Developer Task: Web Scraping, API Integration & Custom Module
+# Task: Web Scraping, API Integration & Custom Module
 
 This README provides setup and usage instructions for a project that extracts data from external websites and integrates it into Odoo via a custom module and API.
 ---
